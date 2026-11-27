@@ -1,1 +1,0 @@
-// PASSO 1 - o coração do programa.
